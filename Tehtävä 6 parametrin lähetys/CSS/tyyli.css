@@ -1,0 +1,18 @@
+body {
+    background-color: blanchedalmond;
+}
+.row {
+    margin-top: 100px;
+}
+.otsikko {
+    width: 60%;
+    margin-left: 23em;
+}
+
+.block {
+    width: 20%;
+    margin-left: 60.5em;
+    background-color: red;
+    color: blanchedalmond;
+    text-transform: uppercase;
+}
